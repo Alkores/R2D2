@@ -68,4 +68,7 @@ Traceback (most recent call last):
   File "/usr/lib/python3/dist-packages/requests/adapters.py", line 516, in send
     raise ConnectionError(e, request=request)
 requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.gigachat.com', port=443): Max retries exceeded with url: /v1/okpd (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f77019d0940>: Failed to establish a new connection: [Errno -2] Name or service not known'))
-}```
+}
+```
+## Hakaton - Copy.py
+Представляет собой вторую весию каталогизации использующую в качестве индекса OKPD2. Который сам по себе тоже имеет категории.
