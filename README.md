@@ -8,6 +8,6 @@
 #Catolog 
 Содержит скрипт, который выделяет товар, например "Сорочка мужская..." и разбивает товары с этим наименованием на группы при помощи характеристик. Ниже приведён пример работы кода.
 ДО:
-![alt text](https://iimg.su/i/hkIf9)
+![alt text](https://s.iimg.su/s/13/hV5GzUuitSC2ehwiciDu7DVXabAqCqiHErQsVlRl.png)
 ПОСЛЕ:
 ![alt text](https://iimg.su/i/yUWkj)
