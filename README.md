@@ -10,4 +10,4 @@
 ДО:
 ![alt text](https://s.iimg.su/s/13/hV5GzUuitSC2ehwiciDu7DVXabAqCqiHErQsVlRl.png)
 ПОСЛЕ:
-![alt text](https://iimg.su/i/yUWkj)
+![alt text](https://s.iimg.su/s/13/fZLGTm0CgYGC6elbW3tV0DluzRPen6ItBQQf4KBn.png)
